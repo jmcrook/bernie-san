@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bernie-san/static/css/main.d1b05096.chunk.css",
+    "main.js": "/bernie-san/static/js/main.9ee19565.chunk.js",
+    "main.js.map": "/bernie-san/static/js/main.9ee19565.chunk.js.map",
+    "runtime-main.js": "/bernie-san/static/js/runtime-main.db7bcf08.js",
+    "runtime-main.js.map": "/bernie-san/static/js/runtime-main.db7bcf08.js.map",
+    "static/js/2.efd80659.chunk.js": "/bernie-san/static/js/2.efd80659.chunk.js",
+    "static/js/2.efd80659.chunk.js.map": "/bernie-san/static/js/2.efd80659.chunk.js.map",
+    "index.html": "/bernie-san/index.html",
+    "precache-manifest.7de5f9ca463615c0706e03e818ca165b.js": "/bernie-san/precache-manifest.7de5f9ca463615c0706e03e818ca165b.js",
+    "service-worker.js": "/bernie-san/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/bernie-san/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.efd80659.chunk.js.LICENSE.txt": "/bernie-san/static/js/2.efd80659.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bernie-san/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db7bcf08.js",
+    "static/js/2.efd80659.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9ee19565.chunk.js"
+  ]
+}
